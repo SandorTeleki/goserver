@@ -1,6 +1,6 @@
 # goserver
 
-A simple Go HTTP server and a Python bookbot script, both containerized with Docker. Based on the Boot.dev course [Learn Docker](https://www.boot.dev/courses/learn-docker).
+Go HTTP server and a Python bookbot script, both containerized with Docker. Based on the Boot.dev course [Learn Docker](https://www.boot.dev/courses/learn-docker).
 
 ## Go Server
 
